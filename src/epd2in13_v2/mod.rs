@@ -56,7 +56,7 @@ pub type Display2in13 = crate::graphics::Display<
 >;
 
 /// Width of the display.
-pub const WIDTH: u32 = 122;
+pub const WIDTH: u32 = 130;
 
 /// Height of the display
 pub const HEIGHT: u32 = 250;
